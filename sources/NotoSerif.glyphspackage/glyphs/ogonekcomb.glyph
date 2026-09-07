@@ -5,7 +5,7 @@ layers = (
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 pos = (-1,0);
 }
 );
@@ -42,7 +42,7 @@ width = 0;
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 }
 );
 layerId = UUID0;
@@ -78,7 +78,7 @@ width = 0;
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 }
 );
 layerId = "75A83886-EED5-4C31-9670-660514D8A4F6";
@@ -114,7 +114,7 @@ width = 0;
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 pos = (-5,0);
 }
 );
@@ -151,7 +151,7 @@ width = 0;
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 }
 );
 layerId = "1D4F67F9-897D-45AD-B7F0-CA61A6862C03";
@@ -187,7 +187,7 @@ width = 0;
 {
 anchors = (
 {
-name = _bottom;
+name = _ogonek;
 pos = (1,0);
 }
 );
